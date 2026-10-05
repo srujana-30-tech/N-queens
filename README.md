@@ -177,4 +177,4 @@ This program demonstrates how **backtracking** can be used to solve constraint-b
 
 ## Author
 
-Created as a Python implementation of the classic **N-Queens Backtracking Problem**.
+Created as a Python implementation of the classic **N-Queens Backtracking Problem** by Srujana.
